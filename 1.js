@@ -1,3 +1,3 @@
-function addNumber(a,b){
-    return a+b;
+function dedductNumber(a,b){
+    return a-b;
 }
